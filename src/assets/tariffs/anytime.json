@@ -1,0 +1,167 @@
+[
+  {
+    "company": "anytime",
+    "title": "Базовый",
+    "cost": 0.34,
+    "main": true,
+    "included": {
+      "min": 1,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.07
+    }
+  },
+  {
+    "company": "anytime",
+    "title": "Суточный БАЗОВЫЙ",
+    "cost": 35,
+    "included": {
+      "min": 1440,
+      "km": 1,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.29,
+      "parking": 0.15,
+      "min": 0.15
+    }
+  },
+  {
+    "company": "anytime",
+    "title": "Проездной 1+0.5 часа",
+    "cost": 19.2,
+    "included": {
+      "min": 60,
+      "km": 0,
+      "parking": 30
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.11,
+      "min": 0.34
+    }
+  },
+  {
+    "company": "anytime",
+    "title": "Проездной 1+2 часа",
+    "cost": 22.8,
+    "included": {
+      "min": 60,
+      "km": 0,
+      "parking": 120
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.11,
+      "min": 0.34
+    }
+  },
+  {
+    "company": "anytime",
+    "title": "Проездной 2+4 часа",
+    "cost": 44,
+    "included": {
+      "min": 120,
+      "km": 0,
+      "parking": 240
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.11,
+      "min": 0.34
+    }
+  },
+  {
+    "company": "anytime",
+    "title": "Проездной 3+6 часов",
+    "cost": 64.8,
+    "included": {
+      "min": 180,
+      "km": 0,
+      "parking": 360
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.11,
+      "min": 0.34
+    }
+  },
+  {
+    "company": "anytime",
+    "title": "Проездной на 30 дней ultra",
+    "cost": 173,
+    "included": {
+      "min": 600,
+      "km": 0,
+      "parking": 144
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.11,
+      "min": 0.34
+    }
+  },
+  {
+    "company": "anytime",
+    "title": "Проездной на 30 дней",
+    "cost": 90,
+    "included": {
+      "min": 300,
+      "km": 0,
+      "parking": 72
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.11,
+      "min": 0.34
+    }
+  },
+  {
+    "company": "anytime",
+    "title": "Проездной на 14 дней",
+    "cost": 56,
+    "included": {
+      "min": 120,
+      "km": 0,
+      "parking": 43
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.11,
+      "min": 0.34
+    }
+  },
+  {
+    "company": "anytime",
+    "title": "Проездной на 7 дней",
+    "cost": 32,
+    "included": {
+      "min": 100,
+      "km": 0,
+      "parking": 24
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.11,
+      "min": 0.34
+    }
+  },
+  {
+    "company": "anytime",
+    "title": "Проездной на 3 дня",
+    "cost": 16,
+    "included": {
+      "min": 50,
+      "km": 0,
+      "parking": 12
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.11,
+      "min": 0.34
+    }
+  }
+]

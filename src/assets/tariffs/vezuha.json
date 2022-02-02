@@ -1,0 +1,115 @@
+[
+  {
+    "company": "Везуха",
+    "title": "Минуты и километры",
+    "cost": 0.15,
+    "main": true,
+    "included": {
+      "min": 1,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.28,
+      "parking": 0
+    }
+  },
+  {
+    "company": "Везуха",
+    "title": "70 мин",
+    "cost": 12.9,
+    "included": {
+      "min": 70,
+      "km": 20,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "Везуха",
+    "title": "3 часа",
+    "cost": 23.9,
+    "included": {
+      "min": 180,
+      "km": 40,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "Везуха",
+    "title": "6 часов",
+    "cost": 35.9,
+    "included": {
+      "min": 360,
+      "km": 65,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "Везуха",
+    "title": "12 часов",
+    "cost": 49.9,
+    "included": {
+      "min": 720,
+      "km": 90,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "Везуха",
+    "title": "сутки",
+    "cost": 66,
+    "included": {
+      "min": 1440,
+      "km": 130,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "Везуха",
+    "title": "50 часов",
+    "cost": 90,
+    "included": {
+      "min": 3000,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.21,
+      "parking": 0
+    }
+  },
+  {
+    "company": "Везуха",
+    "title": "7 дней",
+    "cost": 269,
+    "included": {
+      "min": 10080,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.21,
+      "parking": 0
+    }
+  }
+]

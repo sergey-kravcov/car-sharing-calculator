@@ -1,0 +1,241 @@
+[
+  {
+    "company": "hello",
+    "title": "Минутный",
+    "cost": 0.35,
+    "main": true,
+    "included": {
+      "min": 1,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0,
+      "parking": 0.1
+    }
+  },
+  {
+    "company": "hello",
+    "title": "30 мин",
+    "cost": 3.9,
+    "included": {
+      "min": 30,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.29,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "60 мин",
+    "cost": 6.9,
+    "included": {
+      "min": 60,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.29,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "120 мин",
+    "cost": 12.9,
+    "included": {
+      "min": 120,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.29,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "3 часа + 35 км",
+    "cost": 22,
+    "included": {
+      "min": 180,
+      "km": 35,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.29,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "4 часа + 45 км",
+    "cost": 29,
+    "included": {
+      "min": 240,
+      "km": 45,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.29,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "6 часов + 55 км",
+    "cost": 32,
+    "included": {
+      "min": 360,
+      "km": 55,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.29,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "9 часов + 70 км",
+    "cost": 39,
+    "included": {
+      "min": 540,
+      "km": 70,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.29,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "12 часов + 85 км",
+    "cost": 47,
+    "included": {
+      "min": 720,
+      "km": 85,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.29,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "25 часов + 110 км",
+    "cost": 57,
+    "included": {
+      "min": 1500,
+      "km": 110,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.29,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "1 сутки",
+    "cost": 39,
+    "included": {
+      "min": 1440,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "2 суток",
+    "cost": 76,
+    "included": {
+      "min": 2880,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "3 суток",
+    "cost": 115,
+    "included": {
+      "min": 4320,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "5 суток",
+    "cost": 165,
+    "included": {
+      "min": 7200,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "7 суток",
+    "cost": 10080,
+    "included": {
+      "min": 1,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "10 суток",
+    "cost": 315,
+    "included": {
+      "min": 14400,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  },
+  {
+    "company": "hello",
+    "title": "14 суток",
+    "cost": 429,
+    "included": {
+      "min": 20160,
+      "km": 0,
+      "parking": 0
+    },
+    "extra": {
+      "km": 0.27,
+      "parking": 0
+    }
+  }
+]
